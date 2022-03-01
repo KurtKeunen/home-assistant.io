@@ -87,6 +87,7 @@ $ docker run --device /dev/ttyUSB0:/dev/ttyUSB0 -d --name="home-assistant" -v /h
 DIY solutions (ESP8266 based):
 
 - [esp8266_p1meter (daniel-jong)](https://github.com/daniel-jong/esp8266_p1meter)
+- [esp8266_p1meter for Belgian DSMR (KurtKeunen)](https://github.com/KurtKeunen/esp8266_p1meter_belgium)
 
 {% include integrations/config_flow.md %}
 
